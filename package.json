@@ -1,0 +1,10 @@
+{
+  "name": "xtreme-growth-claude-proxy",
+  "version": "1.0.0",
+  "description": "Proxy de Anthropic API para el dashboard Xtreme Growth AI",
+  "main": "api/claude.js",
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  }
+}
