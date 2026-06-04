@@ -1,0 +1,59 @@
+XTREME PRODUCT AI — Programa de Ramiro Castro (Growth Rockstar Empresas)
+
+DESCRIPCIÓN
+Programa intensivo enfocado en formar AI Product Managers y PM Builders: profesionales de producto capaces de definir, construir, evaluar y desplegar productos potenciados con inteligencia artificial. A través de build sessions en vivo, construyes desde cero una aplicación con AI mientras aprendes los frameworks, prompts y workflows que usan hoy los equipos de producto más avanzados del mundo.
+
+DATOS CLAVE
+- Duración: 4 semanas
+- Modalidad: Híbrido
+- Carga horaria: 26 horas
+- Próxima cohorte: 20 de julio de 2026
+
+RUTA DE APRENDIZAJE
+1. Curso Product Rockstar
+2. Xtreme Product con AI
+
+HABILIDADES
+AI Product Management — Build & Deploy — Prompt Engineering — RAG — Evals — Agentic AI — Product Vision & Positioning con AI
+
+PROGRAMA DIRIGIDO A
+- Product Managers con base sólida que quieren convertirse en AI PMs / PM Builders.
+- Founders con foco en producto.
+- Líderes de producto que necesitan operar con AI en el día a día.
+- Equipos de producto, diseño y engineering que quieren construir AI-first.
+- Profesionales de producto que sienten que su rol está en riesgo si no aprenden a build & deploy con AI.
+
+ACCEDIENDO AL CURSO RECIBES
+- Build Sessions en vivo (hands-on).
+- Fireside Chats con líderes de Mercado Libre y Spotify.
+- 7 módulos pregrabados.
+- Tu propio AI Product Coach listo para usar.
+- Stack completo de herramientas AI para Product Managers.
+- Workflows y prompts accionables listos para replicar.
+- Frameworks de Product Vision, Positioning, RAG, Evals y Agentic AI.
+- Acceso a comunidad permanente.
+
+EARLY BIRD DISCOUNT
+- 1 cupo: 1150 USD
+- 2-4 cupos: 1100 USD
+- 5-9 cupos: 1000 USD
+- +10 cupos: 900 USD
+
+TEMARIO
+Módulo 1: Instalar el nuevo AI OS — El nuevo mundo del Product Management. El rol del PM cambió para siempre; qué cambia, qué permanece, y por qué los PMs que no se reinventan están en riesgo real de quedar fuera del mercado.
+Módulo 2: El PM como Orquestador de Inteligencia. Construyes desde cero tu AI Product Coach. Build Session 1: construimos en vivo una app con AI desde cero, definimos Product Vision y Positioning, framework para crear categoría y nicho. Te llevas un Product Coach AI listo para usar.
+Módulo 3: Context & Prompt Engineering — El arte de dirigir la AI. Prompt engineering y context engineering aplicados a producto; diseñar system prompts como Producto.
+Módulo 4: Knowledge Architecture & RAG para PMs. RAG como decisión de producto. Build Session 2 (2h Ramiro + 1h invitado): system prompt y estrategia RAG aplicados a la app. Fireside Chat con Machine Learning Lead de Mercado Libre (PhD con +10 años en AI y machine learning).
+Módulo 5: Evals masterclass para PMs. Gestionar producto con Evals; Golden Sets, Evals v1 e iteración.
+Módulo 6: Agentic AI masterclass para PMs. Estrategia now/next/later de agentes sin caer en overengineering. Build Session 3 (2h Ramiro + 1h invitado): implementamos Evals; Fireside Chat con Principal Data Engineer de Spotify.
+Módulo 7: 10X AI PM + Ética y Seguridad AI (Bonus). Build Session 4 (Eficiencia AI PM, 2h): Ramiro y Luis muestran procesos reales de producto potenciados con AI. Build Session 5 (Build and Deploy, 2h): terminamos la app y la deployamos en vivo. Te llevas Claude Code, GitHub para Producto, Deploy en Vercel.
+
+DOCENTES
+Ramiro Castro — AI Product Leader | Growth. Product Manager con +10 años construyendo y escalando productos en compañías de alto crecimiento en LATAM. Construye productos con AI todos los días: product vision, positioning, prompts, estrategias de RAG y sistemas de evals.
+Dylan Rosemberg — Founder & CEO Growth Rockstar | Co-Founder 30X.
+
+STACK DE TOOLS AI
+Claude AI / Claude Code, Manus AI, Supabase, Vercel, Lovable, Railway. (Entre otras herramientas de AI que se puedan incluir.)
+
+WEBINAR DE ANUNCIO
+Viernes 5 de junio de 2026, 1pm Argentina / 11am Colombia.
